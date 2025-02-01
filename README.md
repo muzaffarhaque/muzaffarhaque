@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-muzaffarul-haque-541b761b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-muzaffarul-haque-541b761b1/" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/ucqe5xlqnarrw_gngp4ahw_w](https://www.youtube.com/@SotheTech)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqe5xlqnarrw_gngp4ahw_w" height="30" width="40" /></a>
+<a href="https://youtube.com/@sothetech?feature=shared" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqe5xlqnarrw_gngp4ahw_w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
